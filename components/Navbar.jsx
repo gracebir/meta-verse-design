@@ -21,7 +21,7 @@ const Navbar = () => (
       <img 
       src="./menu.svg" 
       className="w-[24px] h-[24px] object-contain" 
-      alt="" />
+      alt="menu" />
     </div>
   </motion.nav>
 );
