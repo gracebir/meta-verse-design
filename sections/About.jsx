@@ -4,9 +4,7 @@ import { TypingText } from '../components'
 import styles from '../styles';
 import { 
   fadeIn,
-  slideIn,
   staggerContainer,
-  textVariant
 } from '../utils/motion';
 
 const About = () => (
